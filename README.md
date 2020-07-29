@@ -1,5 +1,7 @@
 ![Imgur](https://imgur.com/4JoZW8B.png)
+
 ```javascript
+// More about me
 const tarun= {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "ethereum dev", "random-tech-stuff"],
