@@ -10,8 +10,7 @@ const tarun= {
         backEnd: ["Nodejs", "express"],
         database: ["MongoDB","Firebase","mySql"],
         blockchain:["Ethereum, Solidity, IPFS"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    }
 }
 ```
 ###  Find or contact me around the web 🌎
