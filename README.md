@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/4JoZW8B.png)
+![Imgur](https://imgur.com/qkLuwIt.png)
 
 ```javascript
 // More about me
