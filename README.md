@@ -12,7 +12,7 @@ const tarun= {
         database: ["MongoDB","Firebase","MySQL"],
         blockchain:["Ethereum, Solidity, IPFS"]
     },
-    loves:["javascript","coffee","my sleep"]
+    loves:["javascript","coffee","mountains"]
 }
 ```
 ###  Find or contact me around the web 🌎
