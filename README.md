@@ -5,13 +5,14 @@
 // More about me
 const tarun= {
     pronouns: "He" | "Him",
-    askMeAbout: ["Web development", "Ethereum development", "random-tech-stuff"],
+    askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
     technologies:{
         fronEnd: ["ReactJS"],
         backEnd: ["Nodejs", "ExpressJS"],
         database: ["MongoDB","Firebase","MySQL"],
         blockchain:["Ethereum, Solidity, IPFS"]
-    }
+    },
+    loves:["javascript","coffee","my sleep"]
 }
 ```
 ###  Find or contact me around the web 🌎
@@ -28,6 +29,9 @@ const tarun= {
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=tarun-soni&style=flat-square)
 
 <center>
 <!-- 
