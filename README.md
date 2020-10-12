@@ -1,5 +1,5 @@
 
-![Imgur](https://imgur.com/qkLuwIt.png)
+![Imgur](https://imgur.com/Ta90XqW.png)
 
 ```javascript
 // More about me
