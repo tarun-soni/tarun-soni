@@ -7,7 +7,7 @@ const tarun= {
     pronouns: "He" | "Him",
     askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
     technologies:{
-        fronEnd: ["ReactJS"],
+        fronEnd: ["ReactJS","Redux"],
         backEnd: ["Nodejs", "ExpressJS"],
         database: ["MongoDB","Firebase","MySQL"],
         blockchain:["Ethereum, Solidity, IPFS"]
