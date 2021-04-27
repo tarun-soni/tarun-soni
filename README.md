@@ -1,14 +1,12 @@
-
-![Imgur](https://imgur.com/Ta90XqW.png)
-
+![profile](./profile.svg)
 ```javascript
 // More about me
 const tarun= {
     pronouns: "He" | "Him",
     askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
     technologies:{
-        fronEnd: ["ReactJS","Redux"],
-        backEnd: ["Nodejs", "ExpressJS"],
+        fronEnd: ["ReactJS","Redux","recoil-js"],
+        backEnd: ["Nodejs", "ExpressJS","Graphql"],
         database: ["MongoDB","Firebase","MySQL"],
         blockchain:["Ethereum, Solidity, IPFS"]
     },
