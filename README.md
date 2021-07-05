@@ -2,7 +2,6 @@
 ```javascript
 // More about me
 const tarun= {
-    pronouns: "He" | "Him",
     askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
     technologies:{
         fronEnd: ["ReactJS","Redux","recoil-js"],
@@ -10,7 +9,7 @@ const tarun= {
         database: ["MongoDB","Firebase","MySQL"],
         blockchain:["Ethereum, Solidity, IPFS"]
     },
-    loves:["javascript","coffee","mountains"]
+    loves:["javascript","React","coffee","mountains"]
 }
 ```
 ###  Find or contact me around the web 🌎
