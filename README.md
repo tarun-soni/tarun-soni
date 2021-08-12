@@ -1,22 +1,23 @@
 ![profile](./profile.svg)
+
 ```javascript
 // More about me
 const tarun= {
     askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
     technologies:{
-        fronEnd: ["ReactJS","Redux","recoil-js"],
-        backEnd: ["Nodejs", "ExpressJS","Graphql"],
+        fronEnd: ["ReactJS", "Redux", "recoil-js"],
+        backEnd: ["Nodejs", "ExpressJS", "Graphql"],
         database: ["MongoDB","Firebase","MySQL"],
-        blockchain:["Ethereum, Solidity, IPFS"]
+        blockchain:["Ethereum", "Solidity", "IPFS"]
     },
-    loves:["javascript","React","coffee","mountains"]
+    loves:["javascript", "React", "coffee", "mountains"]
 }
 ```
+
 ###  Find or contact me around the web 🌎
 <center>
 
     
-
 <br>
 <a href="https://twitter.com/SoniTarun26"> 
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
