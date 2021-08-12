@@ -7,7 +7,7 @@ const tarun= {
     technologies:{
         fronEnd: ["ReactJS", "Redux", "recoil-js"],
         backEnd: ["Nodejs", "ExpressJS", "Graphql"],
-        database: ["MongoDB","Firebase","MySQL"],
+        database: ["MongoDB", "Firebase", "MySQL"],
         blockchain:["Ethereum", "Solidity", "IPFS"]
     },
     loves:["javascript", "React", "coffee", "mountains"]
