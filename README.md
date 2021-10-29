@@ -1,11 +1,11 @@
-![profile](./profile.svg)
+![profile](./profile.png)
 
 ```javascript
 // More about me
 const tarun = {
   askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
   technologies: {
-    fronEnd: ["ReactJS", "Redux", "recoil-js"],
+    fronEnd: ["ReactJS", "React Native", "Redux", "recoil"],
     backEnd: ["Nodejs", "ExpressJS", "Graphql"],
     database: ["MongoDB", "Firebase", "MySQL"],
     blockchain: ["Ethereum", "Solidity", "IPFS"],
@@ -14,10 +14,10 @@ const tarun = {
 };
 ```
 
-###  Find or contact me around the web 🌎
+### Find or contact me around the web 🌎
+
 <center>
 
-    
 <br>
 <a href="https://twitter.com/SoniTarun26"> 
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -34,4 +34,3 @@ const tarun = {
 <center>
 <!-- 
 <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>-->
-
