@@ -19,7 +19,7 @@ const tarun = {
 <center>
 
 <br>
-<a href="https://twitter.com/SoniTarun26"> 
+<a href="https://twitter.com/tarun_soni_"> 
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
