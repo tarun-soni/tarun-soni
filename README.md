@@ -3,7 +3,7 @@
 ```javascript
 // More about me
 const tarun = {
-  askMeAbout: ["Web Dev", "Ethereum dApp dev", "random-tech-stuff"],
+  askMeAbout: ["Web Dev", "Mobile Dev", "Ethereum dApp dev", "random-tech-stuff"],
   technologies: {
     fronEnd: ["ReactJS", "React Native", "Redux", "recoil"],
     backEnd: ["Nodejs", "ExpressJS", "Graphql"],
